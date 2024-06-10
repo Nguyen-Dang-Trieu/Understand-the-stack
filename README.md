@@ -8,7 +8,7 @@
     <img src="./Images/1.png" width="700px" alt="">
 </p>
 
-### How does the stack pointer work?
+### [How does the stack pointer work?](https://www.techtarget.com/whatis/definition/stack-pointer)
 Trước tiên, điểm qua một số thanh ghi có liên quan nhé!
 - `EIP` (Extended instruction pointer): thanh ghi con trỏ lệnh, trỏ đến địa chỉ chứa lệnh tiếp theo sẽ được thực thi.
 - `ESP` (Extended stack pointer): thanh ghi chứa địa chỉ đỉnh hiện tại của `stack`.
