@@ -18,3 +18,5 @@ Trước tiên, điểm qua một số thanh ghi có liên quan nhé!
 <p align="center">
     <img src="./Images/2.png" width="700px" alt="">
 </p>
+
+Tiếp tục nghiên cứu theo link này: https://www.varonis.com/blog/stack-memory-3
